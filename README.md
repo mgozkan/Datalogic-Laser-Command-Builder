@@ -36,6 +36,8 @@
 ### Screenshot
 ![image](https://github.com/user-attachments/assets/c072438e-7de1-4df9-9ad1-792e6c9f7574)
 
+![image](https://github.com/user-attachments/assets/4e6336e2-828a-4d10-b15a-240a394afb3d)
+
 
 ### Usage
 1. Select Command: Use the dropdown to choose the desired command.
