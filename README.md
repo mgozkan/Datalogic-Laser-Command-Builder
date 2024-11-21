@@ -80,3 +80,8 @@ All trademarks, logos, and brand names are the property of their respective owne
 The use of the Datalogic name and logo in this repository is solely for illustrative purposes to aid in understanding and generating commands compatible with Datalogic devices.
 
 For official Datalogic support, please visit [Datalogic's website](https://www.datalogic.com/eng/index.html) 
+
+For detailed information and product requests from Turkey, visit [Melka Endüstriyel Teknik Website](https://www.melkateknik.com)
+
+
+.
